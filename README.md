@@ -6,11 +6,11 @@
 
 #In the following codes you would find:
 
-          Data prepration ( like Dealing with missing by KnnImputation)
+          Data prepration (Gneral prepartion, KnnImputation, sampeling)
           SCUT Sampling method : SMOTE Over sampling and Cluster Based Undersampling, to overcome the unbalanced data.
           RandomForest model ausing the library randForest and the calibration process
-          #Exporting Importance variables tables
-          #Figuring the partial dependency plots for the variable
+          Exporting Importance variables tables
+          Figuring the partial dependency plots for the variable
           
           
        
